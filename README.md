@@ -1,4 +1,4 @@
-# 🌐 Nome del Progetto
+# 🌐 Carattere Di Dio - Sito riepilogativo delle nostre riunioni
 
 Questo repository contiene il codice sorgente di un sito web statico
 ospitato tramite **GitHub Pages**.
